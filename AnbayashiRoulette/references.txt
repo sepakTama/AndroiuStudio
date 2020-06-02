@@ -1,1 +1,5 @@
+RecycleViewの基本的な設定
 https://akira-watson.com/android/recyclerview.html
+
+RecycleViewの基本(qiita)
+https://qiita.com/naoi/items/f8a19d6278147e98bbc2

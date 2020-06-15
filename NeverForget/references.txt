@@ -1,6 +1,0 @@
-1.参考図書が初期状態から違うため、以下のサイトを参考にしている。
-
-https://neet-rookie.hatenablog.com/entry/2019/09/09/142358
-
-2.xmlのincludeについてまとめられているQiitaのサイト
-https://qiita.com/sussan0416/items/531b77be1676a30b8fab
